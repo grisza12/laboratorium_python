@@ -181,3 +181,4 @@ for i in bar:
 if  bar.has_key("imie"):
     print bar["imie"]
 print bar.get("imie", "Brak klicza")
+
